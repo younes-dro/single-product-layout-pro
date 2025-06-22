@@ -1,1 +1,1 @@
-# single-product-layout-pro
+# Single Product Layout Pro
